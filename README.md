@@ -3,6 +3,7 @@
 ## Components
 
 - N20 Gear motor (L=24.3 included shaft)
+- [FS0403 Servomotor](https://akizukidenshi.com/catalog/g/g114805/)
 - [SMALL DIA. LOW FRICTION NARROW TIRES (24mm) & CARBON WHEELS (3-SPOKE)](https://www.tamiya.com/japan/products/15541/index.html)
 - [LEGO wheel 87697](https://brickers.jp/products/87697-026?srsltid=AfmBOorEdvSBUCp01KrgKwRHm_qqQFQQpaL2RSzCivZuL12u8CWHIzNz)
 - [682ZZ bearing](https://amzn.asia/d/711zVHE)
