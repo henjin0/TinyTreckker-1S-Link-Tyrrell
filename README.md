@@ -9,3 +9,7 @@
 - [682ZZ bearing](https://amzn.asia/d/711zVHE)
 - [Float stop rubber](https://amzn.asia/d/cuPSQJc)
 - [1mm steel stick](https://amzn.asia/d/bqaLPl2)
+
+## Picture
+
+<img width="1279" height="667" alt="image" src="https://github.com/user-attachments/assets/f722d928-ac86-42a4-8a59-b78a3a0f028f" />
